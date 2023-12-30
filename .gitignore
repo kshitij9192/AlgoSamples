@@ -1,0 +1,9 @@
+#Folder to be excluded
+build
+build/
+.vscode
+
+# helpers
+*.sln
+*.vcxproj
+*.filters
